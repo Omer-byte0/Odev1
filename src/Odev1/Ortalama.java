@@ -28,7 +28,7 @@ public class Ortalama {
         double sonuc=toplam/6.0;
 
         System.out.println("Notlarin ortalamasi: "+sonuc);
-        String durum = sonuc > 60 ? "Gectiniz" : "Kaldiniz";
+        String durum = sonuc >= 60 ? "Gectiniz" : "Kaldiniz";
         System.out.println(durum);
 
     }
