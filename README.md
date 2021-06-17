@@ -1,1 +1,1 @@
-# Odev1
+# Patika.dev java101 1. ödev koşul şartı sağlanarak ypaılmıştır.
